@@ -16,26 +16,27 @@ In this project you'll take this crypto currency tracker app and build two custo
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd dark-mode`
-- [ ] Download project dependencies by running `npm install`
-- [ ] Start up the app using `npm start`
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [k] Create a forked copy of this project.
+- [k] Add your team lead as collaborator on Github.
+- [k] Clone your OWN version of the repository in your terminal
+- [k] CD into the project base directory `cd dark-mode`
+- [k] Download project dependencies by running `npm install`
+- [k] Start up the app using `npm start`
+- [k] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [k] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [k] Push commits: git push origin `<firstName-lastName>`.
+- [k] Reference this video for understanding the key to localStorage - https://www.youtube.com/watch?v=4QvmX7unKvY&feature=youtu.be
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [k] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [k] Add your team lead as a reviewer on the pull-request
+- [k] Your team lead will count the project as complete by merging the branch back into master.
+- [k] Do your magic!
 
 ## Minimum Viable Product
 
-- [ ] Build a custom hook that let's you save data to localStorage
+- [k] Build a custom hook that let's you save data to localStorage
 - [ ] Build a second custom hook that sets the `dark-mode` class on the body element
 - [ ] Compose your two new hooks together to be able to set and persist your user's dark mode preference in your app
 
